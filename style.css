@@ -1,0 +1,17 @@
+*{
+    align-items: center;
+    background-color:burlywood;
+}
+.card{
+    align-items: center;
+    margin: 40px;
+    margin-left: 280px;
+    gap: 10px;
+}
+.card-text{
+    color: black;
+    background-color: whitesmoke;
+}
+.card-body{
+    background-color: whitesmoke;
+}
